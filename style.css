@@ -1,0 +1,12 @@
+
+
+body {
+    background-image: url(ceu_azul.jpg);
+    background-repeat: no-repeat;
+    background-size: cover, cover;
+    text-align: center;
+}
+
+h1 {
+    color: yellowgreen;
+}
